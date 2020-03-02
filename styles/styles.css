@@ -193,8 +193,6 @@ body::-webkit-scrollbar-thumb {
         transform: sclae(1)
     }
 }
-
-/*<------- Summary styling in Modal----> */
 #summary {
     display: flex;
     flex-direction: row;
