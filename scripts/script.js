@@ -452,7 +452,7 @@ $(function() {
     $('#delivery').change(function() {
         if ($(this).is(':checked') && $(this).val() == "delivery") {
             $('.hidden').css({ display: 'flex' })
-            $('.total').html(`<h2>Total : ${calculateCheckOutPrice() + 200} (Inclusive of a $200sh delivery fee)</h2>`);
+            $('.total').html(`<h2>Total : ${calculateCheckOutPrice() + 200} (Inclusive of a ksh200 delivery fee)</h2>`);
         }
     })
     $('#pickup').change(function() {
