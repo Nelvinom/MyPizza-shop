@@ -146,8 +146,8 @@ body::-webkit-scrollbar-thumb {
     cursor: pointer;
 }
 .cart button {
-    background-color: #F18C41;
-    border: #F17A29;
+    background-color: rgb(4, 59, 4);
+    border: rgb(9, 83, 15);
 }
 .modal {
     display: none;
