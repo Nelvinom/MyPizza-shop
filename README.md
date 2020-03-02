@@ -21,6 +21,9 @@ MyPizza.com is a website for an imaginary pizza shop where customers can visit t
         python -m SimpleHTTPServer 8080
     ```
 * Use updated browsers. Google chrome and Firefox are preferred. Code uses ES6 syntax.
+## Link 
+```https://nelvinom.github.io/MyPizza-shop/
+```
 ## Known Bugs
   NO KNOWN BUG
 ## Technologies Used
